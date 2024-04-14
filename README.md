@@ -10,7 +10,9 @@ git clone https://github.com/your_username/celebrity-search.git
 ``` 
 2. Install the required dependencies by running:
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 3. Set up your OpenAI API key by replacing 'private key' in constants.py with your actual API key.
 
